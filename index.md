@@ -4,7 +4,9 @@ sections:
   - section_id: hero
     type: section_hero
     title: Welcome to our Blog
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |+
+      ### A place for our thoughts and information
+
     image: images/logo (1)-1.png
     image_alt: BushBabies
   - title: Text
