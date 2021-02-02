@@ -13,8 +13,6 @@ header:
       url: /
     - label: Posts
       url: /generic/
-    - label: Elements
-      url: /elements/
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
