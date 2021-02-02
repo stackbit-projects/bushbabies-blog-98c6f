@@ -15,8 +15,6 @@ header:
       url: /generic/
     - label: Elements
       url: /elements/
-    - label: Ipsum
-      url: /ipsum/
 footer:
   content: >-
     &copy; Stackbit. All rights reserved. This Jamstack site was created with <a
